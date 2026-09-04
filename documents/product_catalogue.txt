@@ -1,0 +1,84 @@
+TECHVISION INDIA — PRODUCT CATALOGUE
+Enterprise Solutions | 2026
+
+=======================================================
+SECTION 1: TRAINING COURSES
+=======================================================
+
+1.1 AI Course — Foundation to Advanced
+Price: Rs 4,999 per participant
+Duration: 40 hours (online, self-paced)
+Current Stock/Seats Available: 150
+
+Covers machine learning fundamentals, deep learning, neural networks.
+Includes hands-on labs using Python, scikit-learn, TensorFlow, and PyTorch.
+Certificate issued on completion, recognised by 200+ hiring companies.
+Prerequisites: Basic Python knowledge
+
+1.2 Cloud Workshop — AWS and Azure Fundamentals
+Price: Rs 2,999 per participant
+Duration: 16 hours (2 full days, instructor-led)
+Current Stock/Seats Available: 200
+
+Practical cloud computing covering both AWS and Azure.
+Participants get hands-on access to live cloud environments.
+Eligible for AWS Cloud Practitioner exam voucher discount.
+Prerequisites: Basic understanding of servers and networking
+
+1.3 GenAI Bootcamp — Building with Large Language Models
+Price: Rs 8,999 per participant
+Duration: 60 hours (6 weeks, blended)
+Current Stock/Seats Available: 120
+
+Covers the full GenAI stack — OpenAI, Claude, RAG, agents, MCP.
+Each participant builds a capstone project deployed on AWS.
+Placement assistance provided to all who complete the programme.
+Prerequisites: Python proficiency, basic ML knowledge
+
+=======================================================
+SECTION 2: SOFTWARE PRODUCTS
+=======================================================
+
+2.1 ML Toolkit — Enterprise Machine Learning Platform
+Price: Rs 9,999 per license per year
+Current Stock/Licenses Available: 80
+
+End-to-end ML platform for enterprise data teams.
+No-code interface for data preprocessing, model training, and deployment.
+Integrates with Snowflake, BigQuery, and Redshift.
+SOC 2 Type II certified, GDPR compliant.
+Minimum Contract: 5 licenses, 1 year
+
+2.2 Data Dashboard — Business Intelligence and Analytics
+Price: Rs 7,499 per license per year
+Current Stock/Licenses Available: 60
+
+Real-time business intelligence connecting to all major data sources.
+Natural language query — ask questions in plain English and get charts.
+100+ data source connectors, 50+ chart types.
+Minimum Contract: 3 licenses, 1 year
+
+=======================================================
+SECTION 3: ENTERPRISE PACKAGES
+=======================================================
+
+3.1 Startup AI Package
+Price: Rs 49,999 per year
+Includes: 10 AI Course licences, 5 Cloud Workshop seats,
+1 ML Toolkit licence, 8 hours of AI consulting
+
+3.2 Enterprise AI Transformation Package
+Price: Rs 2,49,999 per year
+Includes: Unlimited AI Course and Cloud Workshop seats,
+20 ML Toolkit licences, 10 Data Dashboard licences,
+1 GenAI Bootcamp cohort (up to 20 participants),
+40 hours of AI consulting, Dedicated Customer Success Manager
+
+=======================================================
+SECTION 4: CONTACT
+=======================================================
+
+Sales: sales@techvision.in | 1800-TECHVIS (toll free)
+Demo Requests: demo@techvision.in
+Payment: Bank transfer, Credit card, UPI, Purchase order
+All prices exclusive of GST (18%).
