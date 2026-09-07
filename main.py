@@ -3,7 +3,7 @@
 FASTAPI — main.py
 ============================================================
 
-Entry point for AskCompany.
+Entry point for AskCompanys.
 
 Endpoints:
     GET  /health          — system health check
